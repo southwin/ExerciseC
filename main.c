@@ -4,7 +4,7 @@
  * Created: 10/9/2017 9:46:43 PM
  * Author : ASUS
  */ 
-
+// thêm dòng chú thích này
 #include <avr/io.h>
 #define F_CPU 1200000UL
 #include <util/delay.h>
